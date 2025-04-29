@@ -1,1 +1,2 @@
 There are six datas which are the topological indices of vertex-edge-weighted molecular graphs.
+Also we have added two python codes. One of them is related to calculations of topological indices for the drugs by using their smiles codes. In this code, it was calculated with respect to atomic mass schemes for the atoms. Of course, by changing the other properties it can be calculated for all schemes. The second python code is related to the analysis of regression.
